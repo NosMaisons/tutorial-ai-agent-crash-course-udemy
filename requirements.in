@@ -1,0 +1,13 @@
+openai-agents
+python-dotenv
+chainlit
+chromadb
+ipykernel
+pandas
+tqdm
+
+# developement // only for coding standards; not necessary
+flake8
+autopep8
+isort
+black[jupyter]
